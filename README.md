@@ -1,0 +1,5 @@
+## Requirements
+
+* Node.JS
+* npm
+
