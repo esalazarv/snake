@@ -1,0 +1,6 @@
+{
+  "rules": {
+    "object-literal-sort-keys": false,
+    "no-misused-new": true
+  }
+}
